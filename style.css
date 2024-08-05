@@ -100,6 +100,12 @@ h3 {
   text-align: center;
   color: #fcfcfc;
 }
+
+.about {
+  text-align: justify;
+  font-size: 0.9em;
+}
+
 .resume .base .profile .info .name {
   margin-top: 10px;
   margin-bottom: 0;
